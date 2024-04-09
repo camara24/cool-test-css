@@ -1,0 +1,78 @@
+body{
+	background-color:  #FAF5E9;
+	margin: 10PX 10PX 10PX 10PX;
+}
+
+.contenue{
+	width: 99%;
+	height: 99%;
+	border: solid 1px green;
+	display: flex;
+	justify-content: left;
+	flex-wrap: wrap ;
+	margin: 10px 10px 10px 10px;
+
+}
+.produits{
+	width: 130px;
+    height: 9px;
+    border: solid 1px orange;
+    margin: 49px 12px;
+
+
+}
+
+.Produits h1{
+	font-size: 15px;
+    font-family: sans-serif;
+    margin: 8px 14px 8px 60px;
+    background: green;
+    color: white;
+}
+.imageProduit{
+	width: 250px;
+    height: 288px;
+    border: solid 1px blue;
+    margin: 10px 10px 10px 10px;
+    background: #EF036C;
+}
+
+.imageProduit img{
+	width: 200px;
+    height: 235px;
+    border: solid 1px maroon;
+    margin: 8px 8px 8px 8px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.nomProduits{
+	width: 185px;
+    height: 19px;
+    border: solid 1px black;
+    margin: -46px 11px;
+    background: #96C2DB;
+}
+
+.nomProduits h1{
+	font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 1px;
+    width: 160px;
+    background: #96C2DB;
+}
+.prixProduit{
+	width: 130px;
+    height: 9px;
+    border: solid 1px orange;
+    margin: 49px 12px;
+    background: #FFCC00;
+}
+
+.prixProduit h2{
+	font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: -3px;;
+    width: 160px;
+}
